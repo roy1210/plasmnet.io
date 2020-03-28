@@ -49,7 +49,6 @@ const LockdropInfo: React.FC<Props> = (props: Props) => {
     });
   };
 
-
   useEffect(() => {
     runCountdown();
     // eslint-disable-next-line
